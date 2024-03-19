@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samurai69Jack a Graduate in B.E(E&TC).
-- 👀 I’m interested in FullStack Development.
-- 🌱 I’m currently learning Front-End Development.
+- 👀 Looking to make a Career in Software Development
+- 🌱 Currently exploring the field of web development.
 
 <!---
 Samurai69Jack/Samurai69Jack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
