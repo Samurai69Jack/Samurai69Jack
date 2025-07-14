@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Samurai69Jack a Graduate in B.E(E&TC).
-- 👀 Looking to make a Career in Software Development
-- 🌱 Currently exploring the field of web development.
+- 👀 Specialises in Django, React, Mysql, PostGre, Node and many other web technologies
 
 <!---
 Samurai69Jack/Samurai69Jack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
