@@ -43,7 +43,7 @@ Answered 10 real business questions on 15,000+ retail transactions across 40 sto
 MySQL Window Functions CTEs Data Cleaning
 
 
-###🏅 Certifications
+### 🏅 Certifications
 
 Data Analysis and Visualization with Python — IBM / Coursera, 2025
 Introduction to Data Analytics — IBM, 2025 
